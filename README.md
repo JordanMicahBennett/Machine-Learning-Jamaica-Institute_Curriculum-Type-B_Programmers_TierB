@@ -147,7 +147,8 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
       c. Otherwise, you could make your final semester code free to the public, and simply upload it to Github, naming it as suggested in the beggining of item 3.
 
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-B_Programmers_TierB/blob/master/data/portfolio.png)
-"
+
+
 # Your portfolio
 We'll provide you with your own portfolio page (aka your portfolio URL), at [mlj-institute.appspot.com/students/< your-username >/< your-mlji-id >](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/PORTFOLIO.MD). (See sample portfolio [here](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/PORTFOLIO.MD).)
 
@@ -157,6 +158,7 @@ This portfolio will be accessible from your URL above, and will appeal to your e
       
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-B_Programmers_TierB/blob/master/data/down.png)
 
+# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
 
 # Main Programmer Page
 You may return to the **programmer curriculum selection page** from [here](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage).
