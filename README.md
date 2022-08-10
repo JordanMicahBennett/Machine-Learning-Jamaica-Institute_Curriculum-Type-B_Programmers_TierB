@@ -69,7 +69,7 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 5. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-1](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-1/)", or something similar.
 
 
-![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/exclamation_mark.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage/blob/master/data/exclamation_mark.png)
 
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
 * As [discussed prior](https://github.com/g0dEngineer/ASTIS#astis-multi-pathwaydynamic-lines-of-pedagogy-divide-and-conquer), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML ingredients.
